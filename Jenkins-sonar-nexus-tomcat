@@ -29,12 +29,12 @@ pipeline{
                             type: 'war'
                        ]
                   ], 
-                  credentialsId: 'nexus3', 
+                  credentialsId: 'vamsi3', 
                   groupId: 'in.javahome', 
-                  nexusUrl: '172.31.15.243:8081', 
+                  nexusUrl: '15.222.235.190:8081', 
                   nexusVersion: 'nexus3', 
                   protocol: 'http', 
-                  repository: 'sample-releases', 
+                  repository: 'surya-releases', 
                   version: '8.2.0'  
               }
             }
