@@ -32,12 +32,12 @@
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>nexusRepo</id>
-		    <url>http://3.96.177.241:8081/repository/sample-snapshots/</url>
+		    <url>http://15.222.235.190:8081/repository/sample-snapshots/</url>
 		 </snapshotRepository>
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://3.96.177.241:8081/repository/surya-releases/</url>
+		    <url>http://15.222.235.190:8081/repository/surya-releases/</url>
 		</repository>
   	</distributionManagement>
 	
