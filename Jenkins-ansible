@@ -31,7 +31,7 @@ pipeline{
                   ], 
                   credentialsId: 'nexus3', 
                   groupId: 'in.javahome', 
-                  nexusUrl: '3.99.167.204:8081', 
+                  nexusUrl: '99.79.58.53:8081', 
                   nexusVersion: 'nexus3', 
                   protocol: 'http', 
                   repository: 'surya-releases', 
